@@ -1,0 +1,5 @@
+humidity
+127.0.0.1
+8080
+/dataPost.cgi
+2200.000000
